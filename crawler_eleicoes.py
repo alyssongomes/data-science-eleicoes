@@ -5,10 +5,10 @@ from pymongo import MongoClient
 import json
 
 # Credenciais
-consumer_key = "JRzv5BXbYE6XsRSgz7qQID29K"
-consumer_secret = "w4F6s6C3YxQ2wa1d2In9w6YqQieLTRzyBz2NKhVA8r3ppiuy5f"
-acess_token = "4685391175-NTFMxlXCBZZSAwVCQRNxb0jpJnAFIJDFR70zDle"
-acess_token_secret = "cpSArUTX2pBX4YDwP4gCOBrpe96uwxdsFRHNqvdipTYf6"
+consumer_key = "xxxxxxxxxxxxxxxxxxxxxxxxx"
+consumer_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+acess_token = "xxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+acess_token_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Autenticação e token de acesso a API
 auth = OAuthHandler(consumer_key,consumer_secret)
