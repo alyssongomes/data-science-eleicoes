@@ -5,12 +5,12 @@ import numpy as np
 import time
 import tweepy
 
-mashape_key = "iyuRZvy0h6msh2BnKuBi6nfbuG6op1qwFJijsnErf01ERHH0Yv"
+mashape_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 twitter_app_auth = {
-    'consumer_key': 'nh0NSpRHFNMbHjXVgTS7Xi3Ax',
-    'consumer_secret': 'g6xSrUoAXiEBmP3801o5xm4NK6YEtbLhTnk5zQee6cyLp3gh1B',
-    'access_token': '4685391175-NTFMxlXCBZZSAwVCQRNxb0jpJnAFIJDFR70zDle',
-    'access_token_secret': 'cpSArUTX2pBX4YDwP4gCOBrpe96uwxdsFRHNqvdipTYf6',
+    'consumer_key': 'xxxxxxxxxxxxxxxxxxxxxxxxx',
+    'consumer_secret': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    'access_token': 'xxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    'access_token_secret': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
   }
 bom = botometer.Botometer(wait_on_ratelimit=True,
                           mashape_key=mashape_key,
